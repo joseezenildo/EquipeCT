@@ -12,5 +12,12 @@
  
   <h1 align="center"> Scrum Master </h3>
 <div align="center">
-  <img src="./josé ezenildo.jpeg" height="100" width="100"/>
+  <img src="./Camilly vitória.jpeg" height="100" width="100"/>
+  
+  > Camilly Vitória, 
+  > o Scrum Master desempenha um papel de liderança no Scrum, facilitando a aplicação correta do *framework*, removendo obstáculos, protegendo a equipe, promovendo a colaboração e a comunicação, e impulsionando a melhoria contínua. Ele atua como um agente de mudança, buscando criar um ambiente propício para o sucesso da equipe e do projeto.
+  
+<h1 align="center"> Scrum Team </h3>
+<div align="center">
+  <img src="./Camilly vitória.jpeg" height="100" width="100"/>
   

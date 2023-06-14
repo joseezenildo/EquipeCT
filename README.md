@@ -19,5 +19,12 @@
   
 <h1 align="center"> Scrum Team </h3>
 <div align="center">
-  <img src="./Camilly vitória.jpeg" height="100" width="100"/>
-  
+  <img src="./daniel.jpeg" height="100" width="100"/>
+  <div align="center">
+  <img src="./douglas.jpeg" height="100" width="100"/>
+     <div align="center">
+  <img src="./Diego Melo.jfif" height="100" width="100"/>
+         <div align="center">
+  <img src="./maria.jpeg" height="100" width="100"/>
+           
+        
